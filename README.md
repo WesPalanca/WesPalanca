@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wester Palanca</h1>
+<h3 align="center">Computer Science Student | Backend-Focused Engineer | DevOps Enthusiast</h3>
+
 - 📫 How to reach me **wespalanca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
